@@ -4,7 +4,7 @@
 <table>
   <tr>
     <td width="200px" align="center" valign="top">
-      <img src="https://via.placeholder.com/150" width="150px" style="border-radius: 5px;" alt="渠博岗"/><br/>
+      <img src="WPS图片(1).png" width="150px" style="border-radius: 5px;" alt="渠博岗"/><br/>
       <b>渠博岗 博士 [cite: 2, 11]</b><br/>
       讲师 | 上海电力大学 [cite: 2]
     </td>
