@@ -5,7 +5,7 @@
   <tr>
     <td width="200px" align="center" valign="top">
       <img src="WPS图片(1).png" width="150px" style="border-radius: 5px;" alt="渠博岗"/><br/>
-      <b>渠博岗 博士 [cite: 2, 11]</b><br/>
+      <b>渠博岗 博士 </b><br/>
       讲师 | 上海电力大学 
     </td>
     <td valign="top">
